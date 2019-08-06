@@ -1,5 +1,5 @@
 @import "reset.css";
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
 @import "status-bar.css";
 @import "header.css";
 @import "nav-bar.css";
@@ -8,6 +8,7 @@
 @import "find.css";
 @import "more.css";
 @import "settings.css";
+@import "chat.css";
 
 * {
     box-sizing: border-box;
